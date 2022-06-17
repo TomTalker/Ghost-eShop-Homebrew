@@ -17,7 +17,7 @@ A free alternative eShop for the Nintendo 3DS family of systems.
 
 ______________________
 
-<details><summary><B>COmpiling</B></summary>
+<details><summary><B>Compiling</B></summary>
 
 #### Compiling Tutorial:
 
@@ -43,6 +43,6 @@ On GIT:
 And run ```make.bat```
 </details></details>
 
-[![Discord](https://discordapp.com/api/guilds/633965704424718336/widget.png?style=banner2&time)](https://discord.gg/9Rqvh9F)
+[![Discord](https://discordapp.com/api/guilds/633965704424718336/widget.png?style=banner1&time)](https://discord.gg/9Rqvh9F)
 
 <a href="https://github.com/ghost-land" style="padding-left: 5px; padding-right: 5px;"><img src="https://img.shields.io/badge/&copy;Ghost_eShop_Team-2020_|_2022-red.svg" height="20"></a>
